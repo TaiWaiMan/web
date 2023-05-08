@@ -1,0 +1,14 @@
+<label>請輸入您的姓名：</label>
+<input>
+<button>輸入</button>
+
+
+
+input{
+  border : none;
+  border-bottom : 1px solid #ccc;
+  outline : none;
+}
+
+
+

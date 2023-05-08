@@ -1,0 +1,30 @@
+#button_id:hover {
+    background-color: #0D6EFD;
+    color: white;
+}
+
+.button:hover{
+    cursor: pointer;
+    background-color: #0D6EFD;
+}
+
+#button_id {
+    background-color:rgb(65, 125, 255) ;
+    border: none;
+}
+
+#input_www {
+    border : none  ; 
+    border-bottom : 2px solid #cccccc ; 
+    outline : none ;
+    background-color: rgb(255, 250, 205);
+}
+
+.text:hover{
+    color: rgb(0, 0, 0);
+}
+
+#block{
+    font-family: Serif;
+    font-size: 15px;
+}
